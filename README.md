@@ -32,5 +32,5 @@ stahangryum@gmail.com
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=stahangryum&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stahangryum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-178DC3?style=flat-square&logo=R&logoColor=white"/>
