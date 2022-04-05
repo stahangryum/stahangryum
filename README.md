@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 ## Kim Jeewoo
 Jeonbuk Nation University. Statistics
 
-[GitHub](https://github.com/stahangryum)
-[LinkedIn](www.linkedin.com/in/stahangryum)
-[Blog](https://stahangryum.github.io/Woo/)
+- [GitHub](https://github.com/stahangryum)
+
+- [LinkedIn](www.linkedin.com/in/stahangryum)
+
+- [Blog](https://stahangryum.github.io/Woo/)
 
 
 
