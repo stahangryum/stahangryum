@@ -22,7 +22,7 @@ Jeonbuk Nation University. Statistics
 
 [LinkedIn](www.linkedin.com/in/stahangryum)
 
----
+
 
 ## Contact
 stahangryum@gmail.com
