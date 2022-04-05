@@ -23,6 +23,8 @@ Jeonbuk Nation University. Statistics
 
 [GitHub](https://github.com/stahangryum)
 
+[Blog](https://stahangryum.github.io/Woo/)
+
 [LinkedIn](www.linkedin.com/in/stahangryum)
 
 
