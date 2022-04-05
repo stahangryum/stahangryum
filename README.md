@@ -27,4 +27,4 @@ Jeonbuk Nation University. Statistics
 ## Contact
 stahangryum@gmail.com
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=stahangryum&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=stahangryum&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
