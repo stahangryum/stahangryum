@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## > Kim Jeewoo
+## Kim Jeewoo
 Jeonbuk Nation University. Statistics
 
 [GitHub](https://github.com/stahangryum)
@@ -24,7 +24,7 @@ Jeonbuk Nation University. Statistics
 
 
 
-## > Contact
+## Contact
 stahangryum@gmail.com
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=stahangryum&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
