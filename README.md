@@ -24,7 +24,7 @@ Jeonbuk Nation University. Statistics
 <<<<<<< Updated upstream
 - [GitHub](https://github.com/stahangryum)
 
-- [LinkedIn](https://www.linkedin.com/in/stahangryum)
+- [LinkedIn](www.linkedin.com/in/stahangryum)
 
 - [Blog](https://stahangryum.github.io/Woo/)
 =======
